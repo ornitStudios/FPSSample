@@ -9,9 +9,10 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Robot_Weapon_A_1P
   m_Shader: {fileID: 4800000, guid: b52793709e82eb54695861286c7eb00e, type: 3}
-  m_ShaderKeywords: _BENTNORMALMAP _ENABLEFPSMODE_ON _ENABLESPECULAROCCLUSION _FPS_MODE _MASKMAP _MATERIAL_FEATURE_IRIDESCENCE _NORMALMAP _NORMALMAP_TANGENT_SPACE
+  m_ShaderKeywords: _BENTNORMALMAP _ENABLEFPSMODE_ON _ENABLESPECULAROCCLUSION _FPS_MODE
+    _MASKMAP _MATERIAL_FEATURE_IRIDESCENCE _NORMALMAP _NORMALMAP_TANGENT_SPACE
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap:
